@@ -1,0 +1,20 @@
+repo_name: isiqueira/dev-em-t
+report_id: c3de969d99154aec770c8a7ce94a0de7
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-11T17:39:37+00:00'
+requested_by: isiqueira
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/isiqueira/dev-em-t
+  detection_source: Repo Metadata
